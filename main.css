@@ -1,0 +1,45 @@
+* {
+  font-family:'Computer Modern', 'Times', 'Serif';
+}
+
+.nav-link {
+  text-decoration: none;
+  color:  black;
+}
+
+nav ul, footer ul {
+    letter-spacing: 0.5px;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    margin-left: 10px;
+    display: inline;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 2em;
+}
+p {
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em; 
+}
+
+ul.posts li {
+    list-style: none;
+}
