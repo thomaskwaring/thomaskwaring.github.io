@@ -18,6 +18,9 @@ nav ul li, footer ul li {
     display: inline;
 }
 
+li:not(:last-child) { 
+   margin-bottom: 3px;  
+}
 
 a:hover {
     text-decoration: underline;
