@@ -2,6 +2,8 @@
   font-family:'Computer Modern', 'Times', 'Serif';
 }
 
+body {margin:20px 5%}
+
 .nav-link {
   text-decoration: none;
   color:  black;
