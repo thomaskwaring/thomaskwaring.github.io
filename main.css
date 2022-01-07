@@ -21,7 +21,7 @@ nav ul li, footer ul li {
 }
 
 li:not(:last-child) { 
-   margin-bottom: 3px;  
+   margin-bottom: 5px;  
 }
 
 a:hover {
