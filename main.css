@@ -24,6 +24,10 @@ li:not(:last-child) {
    margin-bottom: 5px;  
 }
 
+.inner-space {
+    margin-top:  5px;
+}
+
 a:hover {
     text-decoration: underline;
 }
